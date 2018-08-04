@@ -1,0 +1,511 @@
+Market_Size,Market_Rank,Item,Year,Valuation
+Big,1,New York Knicks,2001,395
+Big,1,New York Knicks,2002,392
+Big,1,New York Knicks,2003,398
+Big,1,New York Knicks,2004,401
+Big,1,New York Knicks,2005,494
+Big,1,New York Knicks,2006,543
+Big,1,New York Knicks,2007,592
+Big,1,New York Knicks,2008,608
+Big,1,New York Knicks,2009,613
+Big,1,New York Knicks,2010,586
+Big,1,New York Knicks,2011,655
+Big,1,New York Knicks,2012,780
+Big,1,New York Knicks,2013,1100
+Big,1,New York Knicks,2014,1400
+Big,1,New York Knicks,2015,2500
+Big,1,New York Knicks,2016,3000
+Big,1,New York Knicks,2017,3300
+Big,2,Brooklyn Nets,2001,179
+Big,2,Brooklyn Nets,2002,169
+Big,2,Brooklyn Nets,2003,218
+Big,2,Brooklyn Nets,2004,244
+Big,2,Brooklyn Nets,2005,296
+Big,2,Brooklyn Nets,2006,271
+Big,2,Brooklyn Nets,2007,325
+Big,2,Brooklyn Nets,2008,338
+Big,2,Brooklyn Nets,2009,295
+Big,2,Brooklyn Nets,2010,269
+Big,2,Brooklyn Nets,2011,312
+Big,2,Brooklyn Nets,2012,357
+Big,2,Brooklyn Nets,2013,530
+Big,2,Brooklyn Nets,2014,780
+Big,2,Brooklyn Nets,2015,1500
+Big,2,Brooklyn Nets,2016,1700
+Big,3,Los Angeles Lakers,2017,3000
+Big,3,Los Angeles Lakers,2001,390
+Big,3,Los Angeles Lakers,2002,426
+Big,3,Los Angeles Lakers,2003,426
+Big,3,Los Angeles Lakers,2004,447
+Big,3,Los Angeles Lakers,2005,510
+Big,3,Los Angeles Lakers,2006,529
+Big,3,Los Angeles Lakers,2007,568
+Big,3,Los Angeles Lakers,2008,560
+Big,3,Los Angeles Lakers,2009,584
+Big,3,Los Angeles Lakers,2010,607
+Big,3,Los Angeles Lakers,2011,643
+Big,3,Los Angeles Lakers,2012,900
+Big,3,Los Angeles Lakers,2013,1000
+Big,3,Los Angeles Lakers,2014,1350
+Big,3,Los Angeles Lakers,2015,2600
+Big,3,Los Angeles Lakers,2016,2700
+Mid,11,Golden State Warriors,2017,2600
+Big,4,Los Angeles Clippers,2001,154
+Big,4,Los Angeles Clippers,2002,170
+Big,4,Los Angeles Clippers,2003,205
+Big,4,Los Angeles Clippers,2004,208
+Big,4,Los Angeles Clippers,2005,224
+Big,4,Los Angeles Clippers,2006,248
+Big,4,Los Angeles Clippers,2007,285
+Big,4,Los Angeles Clippers,2008,294
+Big,4,Los Angeles Clippers,2009,297
+Big,4,Los Angeles Clippers,2010,295
+Big,4,Los Angeles Clippers,2011,305
+Big,4,Los Angeles Clippers,2012,324
+Big,4,Los Angeles Clippers,2013,430
+Big,4,Los Angeles Clippers,2014,575
+Big,4,Los Angeles Clippers,2015,1600
+Big,4,Los Angeles Clippers,2016,2000
+Big,5,Chicago Bulls,2017,2500
+Big,5,Chicago Bulls,2001,314
+Big,5,Chicago Bulls,2002,329
+Big,5,Chicago Bulls,2003,323
+Big,5,Chicago Bulls,2004,356
+Big,5,Chicago Bulls,2005,368
+Big,5,Chicago Bulls,2006,409
+Big,5,Chicago Bulls,2007,461
+Big,5,Chicago Bulls,2008,500
+Big,5,Chicago Bulls,2009,504
+Big,5,Chicago Bulls,2010,511
+Big,5,Chicago Bulls,2011,511
+Big,5,Chicago Bulls,2012,600
+Big,5,Chicago Bulls,2013,800
+Big,5,Chicago Bulls,2014,1200
+Big,5,Chicago Bulls,2015,2000
+Big,5,Chicago Bulls,2016,2300
+Mid,13,Boston Celtics,2017,2200
+Big,6,Toronto Raptors,2001,148
+Big,6,Toronto Raptors,2002,172
+Big,6,Toronto Raptors,2003,217
+Big,6,Toronto Raptors,2004,249
+Big,6,Toronto Raptors,2005,297
+Big,6,Toronto Raptors,2006,278
+Big,6,Toronto Raptors,2007,315
+Big,6,Toronto Raptors,2008,373
+Big,6,Toronto Raptors,2009,400
+Big,6,Toronto Raptors,2010,386
+Big,6,Toronto Raptors,2011,399
+Big,6,Toronto Raptors,2012,382
+Big,6,Toronto Raptors,2013,405
+Big,6,Toronto Raptors,2014,520
+Big,6,Toronto Raptors,2015,920
+Big,6,Toronto Raptors,2016,980
+Big,4,Los Angeles Clippers,2017,2000
+Big,7,Philadelphia 76ers,2001,233
+Big,7,Philadelphia 76ers,2002,279
+Big,7,Philadelphia 76ers,2003,298
+Big,7,Philadelphia 76ers,2004,328
+Big,7,Philadelphia 76ers,2005,342
+Big,7,Philadelphia 76ers,2006,351
+Big,7,Philadelphia 76ers,2007,375
+Big,7,Philadelphia 76ers,2008,380
+Big,7,Philadelphia 76ers,2009,360
+Big,7,Philadelphia 76ers,2010,344
+Big,7,Philadelphia 76ers,2011,330
+Big,7,Philadelphia 76ers,2012,314
+Big,7,Philadelphia 76ers,2013,418
+Big,7,Philadelphia 76ers,2014,469
+Big,7,Philadelphia 76ers,2015,700
+Big,7,Philadelphia 76ers,2016,700
+Big,2,Brooklyn Nets,2017,1800
+Big,8,Dallas Mavericks,2001,167
+Big,8,Dallas Mavericks,2002,211
+Big,8,Dallas Mavericks,2003,304
+Big,8,Dallas Mavericks,2004,338
+Big,8,Dallas Mavericks,2005,374
+Big,8,Dallas Mavericks,2006,403
+Big,8,Dallas Mavericks,2007,463
+Big,8,Dallas Mavericks,2008,461
+Big,8,Dallas Mavericks,2009,466
+Big,8,Dallas Mavericks,2010,446
+Big,8,Dallas Mavericks,2011,438
+Big,8,Dallas Mavericks,2012,497
+Big,8,Dallas Mavericks,2013,685
+Big,8,Dallas Mavericks,2014,765
+Big,8,Dallas Mavericks,2015,1150
+Big,8,Dallas Mavericks,2016,1400
+Big,10,Houston Rockets,2017,1650
+Big,9,Washington Wizards,2001,210
+Big,9,Washington Wizards,2002,214
+Big,9,Washington Wizards,2003,278
+Big,9,Washington Wizards,2004,274
+Big,9,Washington Wizards,2005,273
+Big,9,Washington Wizards,2006,318
+Big,9,Washington Wizards,2007,334
+Big,9,Washington Wizards,2008,348
+Big,9,Washington Wizards,2009,353
+Big,9,Washington Wizards,2010,313
+Big,9,Washington Wizards,2011,322
+Big,9,Washington Wizards,2012,328
+Big,9,Washington Wizards,2013,397
+Big,9,Washington Wizards,2014,485
+Big,9,Washington Wizards,2015,900
+Big,9,Washington Wizards,2016,960
+Big,8,Dallas Mavericks,2017,1450
+Big,10,Houston Rockets,2001,206
+Big,10,Houston Rockets,2002,234
+Big,10,Houston Rockets,2003,255
+Big,10,Houston Rockets,2004,278
+Big,10,Houston Rockets,2005,369
+Big,10,Houston Rockets,2006,422
+Big,10,Houston Rockets,2007,439
+Big,10,Houston Rockets,2008,462
+Big,10,Houston Rockets,2009,469
+Big,10,Houston Rockets,2010,470
+Big,10,Houston Rockets,2011,443
+Big,10,Houston Rockets,2012,453
+Big,10,Houston Rockets,2013,568
+Big,10,Houston Rockets,2014,775
+Big,10,Houston Rockets,2015,1250
+Big,10,Houston Rockets,2016,1500
+Mid,17,Miami Heat,2017,1350
+Mid,11,Golden State Warriors,2001,168
+Mid,11,Golden State Warriors,2002,166
+Mid,11,Golden State Warriors,2003,176
+Mid,11,Golden State Warriors,2004,188
+Mid,11,Golden State Warriors,2005,228
+Mid,11,Golden State Warriors,2006,243
+Mid,11,Golden State Warriors,2007,267
+Mid,11,Golden State Warriors,2008,309
+Mid,11,Golden State Warriors,2009,335
+Mid,11,Golden State Warriors,2010,315
+Mid,11,Golden State Warriors,2011,363
+Mid,11,Golden State Warriors,2012,450
+Mid,11,Golden State Warriors,2013,555
+Mid,11,Golden State Warriors,2014,750
+Mid,11,Golden State Warriors,2015,1300
+Mid,11,Golden State Warriors,2016,1900
+Mid,20,Cleveland Cavaliers,2017,1200
+Mid,12,Atlanta Hawks,2001,184
+Mid,12,Atlanta Hawks,2002,199
+Mid,12,Atlanta Hawks,2003,206
+Mid,12,Atlanta Hawks,2004,202
+Mid,12,Atlanta Hawks,2005,232
+Mid,12,Atlanta Hawks,2006,262
+Mid,12,Atlanta Hawks,2007,275
+Mid,12,Atlanta Hawks,2008,286
+Mid,12,Atlanta Hawks,2009,306
+Mid,12,Atlanta Hawks,2010,306
+Mid,12,Atlanta Hawks,2011,295
+Mid,12,Atlanta Hawks,2012,270
+Mid,12,Atlanta Hawks,2013,316
+Mid,12,Atlanta Hawks,2014,425
+Mid,12,Atlanta Hawks,2015,825
+Mid,12,Atlanta Hawks,2016,825
+Small,26,San Antonio Spurs,2017,1175
+Mid,13,Boston Celtics,2001,212
+Mid,13,Boston Celtics,2002,218
+Mid,13,Boston Celtics,2003,274
+Mid,13,Boston Celtics,2004,290
+Mid,13,Boston Celtics,2005,334
+Mid,13,Boston Celtics,2006,353
+Mid,13,Boston Celtics,2007,367
+Mid,13,Boston Celtics,2008,391
+Mid,13,Boston Celtics,2009,447
+Mid,13,Boston Celtics,2010,433
+Mid,13,Boston Celtics,2011,452
+Mid,13,Boston Celtics,2012,482
+Mid,13,Boston Celtics,2013,730
+Mid,13,Boston Celtics,2014,875
+Mid,13,Boston Celtics,2015,1700
+Mid,13,Boston Celtics,2016,2100
+Big,6,Toronto Raptors,2017,1125
+Mid,14,Phoenix Suns,2001,252
+Mid,14,Phoenix Suns,2002,266
+Mid,14,Phoenix Suns,2003,272
+Mid,14,Phoenix Suns,2004,282
+Mid,14,Phoenix Suns,2005,356
+Mid,14,Phoenix Suns,2006,395
+Mid,14,Phoenix Suns,2007,410
+Mid,14,Phoenix Suns,2008,449
+Mid,14,Phoenix Suns,2009,452
+Mid,14,Phoenix Suns,2010,429
+Mid,14,Phoenix Suns,2011,411
+Mid,14,Phoenix Suns,2012,395
+Mid,14,Phoenix Suns,2013,474
+Mid,14,Phoenix Suns,2014,565
+Mid,14,Phoenix Suns,2015,910
+Mid,14,Phoenix Suns,2016,1000
+Mid,14,Phoenix Suns,2017,1100
+Mid,15,Detroit Pistons,2001,236
+Mid,15,Detroit Pistons,2002,230
+Mid,15,Detroit Pistons,2003,258
+Mid,15,Detroit Pistons,2004,284
+Mid,15,Detroit Pistons,2005,363
+Mid,15,Detroit Pistons,2006,402
+Mid,15,Detroit Pistons,2007,429
+Mid,15,Detroit Pistons,2008,477
+Mid,15,Detroit Pistons,2009,480
+Mid,15,Detroit Pistons,2010,479
+Mid,15,Detroit Pistons,2011,360
+Mid,15,Detroit Pistons,2012,332
+Mid,15,Detroit Pistons,2013,400
+Mid,15,Detroit Pistons,2014,450
+Mid,15,Detroit Pistons,2015,810
+Mid,15,Detroit Pistons,2016,850
+Small,21,Sacramento Kings,2017,1075
+Mid,16,Minnesota Timberwolves,2001,169
+Mid,16,Minnesota Timberwolves,2002,185
+Mid,16,Minnesota Timberwolves,2003,213
+Mid,16,Minnesota Timberwolves,2004,230
+Mid,16,Minnesota Timberwolves,2005,291
+Mid,16,Minnesota Timberwolves,2006,303
+Mid,16,Minnesota Timberwolves,2007,308
+Mid,16,Minnesota Timberwolves,2008,308
+Mid,16,Minnesota Timberwolves,2009,301
+Mid,16,Minnesota Timberwolves,2010,268
+Mid,16,Minnesota Timberwolves,2011,264
+Mid,16,Minnesota Timberwolves,2012,272
+Mid,16,Minnesota Timberwolves,2013,364
+Mid,16,Minnesota Timberwolves,2014,430
+Mid,16,Minnesota Timberwolves,2015,625
+Mid,16,Minnesota Timberwolves,2016,720
+Small,22,Portland Trail Blazers,2017,1050
+Mid,17,Miami Heat,2001,225
+Mid,17,Miami Heat,2002,248
+Mid,17,Miami Heat,2003,250
+Mid,17,Miami Heat,2004,236
+Mid,17,Miami Heat,2005,279
+Mid,17,Miami Heat,2006,362
+Mid,17,Miami Heat,2007,409
+Mid,17,Miami Heat,2008,418
+Mid,17,Miami Heat,2009,393
+Mid,17,Miami Heat,2010,364
+Mid,17,Miami Heat,2011,425
+Mid,17,Miami Heat,2012,457
+Mid,17,Miami Heat,2013,625
+Mid,17,Miami Heat,2014,770
+Mid,17,Miami Heat,2015,1175
+Mid,17,Miami Heat,2016,1300
+Small,28,Oklahoma City Thunder,2017,1025
+Mid,18,Denver Nuggets,2001,175
+Mid,18,Denver Nuggets,2002,188
+Mid,18,Denver Nuggets,2003,209
+Mid,18,Denver Nuggets,2004,218
+Mid,18,Denver Nuggets,2005,268
+Mid,18,Denver Nuggets,2006,283
+Mid,18,Denver Nuggets,2007,309
+Mid,18,Denver Nuggets,2008,321
+Mid,18,Denver Nuggets,2009,329
+Mid,18,Denver Nuggets,2010,321
+Mid,18,Denver Nuggets,2011,316
+Mid,18,Denver Nuggets,2012,316
+Mid,18,Denver Nuggets,2013,427
+Mid,18,Denver Nuggets,2014,495
+Mid,18,Denver Nuggets,2015,855
+Mid,18,Denver Nuggets,2016,855
+Big,9,Washington Wizards,2017,1000
+Mid,19,Orlando Magic,2001,165
+Mid,19,Orlando Magic,2002,176
+Mid,19,Orlando Magic,2003,197
+Mid,19,Orlando Magic,2004,199
+Mid,19,Orlando Magic,2005,218
+Mid,19,Orlando Magic,2006,247
+Mid,19,Orlando Magic,2007,283
+Mid,19,Orlando Magic,2008,322
+Mid,19,Orlando Magic,2009,349
+Mid,19,Orlando Magic,2010,361
+Mid,19,Orlando Magic,2011,385
+Mid,19,Orlando Magic,2012,385
+Mid,19,Orlando Magic,2013,470
+Mid,19,Orlando Magic,2014,560
+Mid,19,Orlando Magic,2015,875
+Mid,19,Orlando Magic,2016,900
+Mid,19,Orlando Magic,2017,920
+Mid,20,Cleveland Cavaliers,2001,185
+Mid,20,Cleveland Cavaliers,2002,202
+Mid,20,Cleveland Cavaliers,2003,222
+Mid,20,Cleveland Cavaliers,2004,258
+Mid,20,Cleveland Cavaliers,2005,298
+Mid,20,Cleveland Cavaliers,2006,356
+Mid,20,Cleveland Cavaliers,2007,380
+Mid,20,Cleveland Cavaliers,2008,455
+Mid,20,Cleveland Cavaliers,2009,477
+Mid,20,Cleveland Cavaliers,2010,476
+Mid,20,Cleveland Cavaliers,2011,355
+Mid,20,Cleveland Cavaliers,2012,329
+Mid,20,Cleveland Cavaliers,2013,434
+Mid,20,Cleveland Cavaliers,2014,515
+Mid,20,Cleveland Cavaliers,2015,915
+Mid,20,Cleveland Cavaliers,2016,1100
+Small,25,Utah Jazz,2017,910
+Small,21,Sacramento Kings,2001,178
+Small,21,Sacramento Kings,2002,209
+Small,21,Sacramento Kings,2003,259
+Small,21,Sacramento Kings,2004,275
+Small,21,Sacramento Kings,2005,330
+Small,21,Sacramento Kings,2006,345
+Small,21,Sacramento Kings,2007,379
+Small,21,Sacramento Kings,2008,385
+Small,21,Sacramento Kings,2009,350
+Small,21,Sacramento Kings,2010,305
+Small,21,Sacramento Kings,2011,293
+Small,21,Sacramento Kings,2012,300
+Small,21,Sacramento Kings,2013,525
+Small,21,Sacramento Kings,2014,550
+Small,21,Sacramento Kings,2015,800
+Small,21,Sacramento Kings,2016,925
+Mid,15,Detroit Pistons,2017,900
+Small,22,Portland Trail Blazers,2001,272
+Small,22,Portland Trail Blazers,2002,283
+Small,22,Portland Trail Blazers,2003,270
+Small,22,Portland Trail Blazers,2004,272
+Small,22,Portland Trail Blazers,2005,247
+Small,22,Portland Trail Blazers,2006,227
+Small,22,Portland Trail Blazers,2007,230
+Small,22,Portland Trail Blazers,2008,253
+Small,22,Portland Trail Blazers,2009,307
+Small,22,Portland Trail Blazers,2010,338
+Small,22,Portland Trail Blazers,2011,356
+Small,22,Portland Trail Blazers,2012,370
+Small,22,Portland Trail Blazers,2013,457
+Small,22,Portland Trail Blazers,2014,587
+Small,22,Portland Trail Blazers,2015,940
+Small,22,Portland Trail Blazers,2016,975
+Mid,18,Denver Nuggets,2017,890
+Small,23,Charlotte Hornets,2001,n/a
+Small,23,Charlotte Hornets,2002,n/a
+Small,23,Charlotte Hornets,2003,n/a
+Small,23,Charlotte Hornets,2004,n/a
+Small,23,Charlotte Hornets,2005,300
+Small,23,Charlotte Hornets,2006,200
+Small,23,Charlotte Hornets,2007,277
+Small,23,Charlotte Hornets,2008,287
+Small,23,Charlotte Hornets,2009,284
+Small,23,Charlotte Hornets,2010,278
+Small,23,Charlotte Hornets,2011,281
+Small,23,Charlotte Hornets,2012,277
+Small,23,Charlotte Hornets,2013,315
+Small,23,Charlotte Hornets,2014,410
+Small,23,Charlotte Hornets,2015,725
+Small,23,Charlotte Hornets,2016,750
+Mid,12,Atlanta Hawks,2017,885
+Small,24,Indiana Pacers,2001,232
+Small,24,Indiana Pacers,2002,231
+Small,24,Indiana Pacers,2003,246
+Small,24,Indiana Pacers,2004,280
+Small,24,Indiana Pacers,2005,311
+Small,24,Indiana Pacers,2006,350
+Small,24,Indiana Pacers,2007,340
+Small,24,Indiana Pacers,2008,333
+Small,24,Indiana Pacers,2009,303
+Small,24,Indiana Pacers,2010,281
+Small,24,Indiana Pacers,2011,269
+Small,24,Indiana Pacers,2012,283
+Small,24,Indiana Pacers,2013,383
+Small,24,Indiana Pacers,2014,475
+Small,24,Indiana Pacers,2015,830
+Small,24,Indiana Pacers,2016,840
+Small,24,Indiana Pacers,2017,880
+Small,25,Utah Jazz,2001,226
+Small,25,Utah Jazz,2002,225
+Small,25,Utah Jazz,2003,226
+Small,25,Utah Jazz,2004,239
+Small,25,Utah Jazz,2005,257
+Small,25,Utah Jazz,2006,274
+Small,25,Utah Jazz,2007,297
+Small,25,Utah Jazz,2008,342
+Small,25,Utah Jazz,2009,358
+Small,25,Utah Jazz,2010,343
+Small,25,Utah Jazz,2011,343
+Small,25,Utah Jazz,2012,335
+Small,25,Utah Jazz,2013,432
+Small,25,Utah Jazz,2014,525
+Small,25,Utah Jazz,2015,850
+Small,25,Utah Jazz,2016,875
+Big,7,Philadelphia 76ers,2017,800
+Small,26,San Antonio Spurs,2001,189
+Small,26,San Antonio Spurs,2002,221
+Small,26,San Antonio Spurs,2003,242
+Small,26,San Antonio Spurs,2004,283
+Small,26,San Antonio Spurs,2005,324
+Small,26,San Antonio Spurs,2006,350
+Small,26,San Antonio Spurs,2007,390
+Small,26,San Antonio Spurs,2008,405
+Small,26,San Antonio Spurs,2009,415
+Small,26,San Antonio Spurs,2010,398
+Small,26,San Antonio Spurs,2011,404
+Small,26,San Antonio Spurs,2012,418
+Small,26,San Antonio Spurs,2013,527
+Small,26,San Antonio Spurs,2014,660
+Small,26,San Antonio Spurs,2015,1000
+Small,26,San Antonio Spurs,2016,1150
+Small,29,Memphis Grizzlies,2017,790
+Small,27,Milwaukee Bucks,2001,131
+Small,27,Milwaukee Bucks,2002,150
+Small,27,Milwaukee Bucks,2003,168
+Small,27,Milwaukee Bucks,2004,174
+Small,27,Milwaukee Bucks,2005,199
+Small,27,Milwaukee Bucks,2006,231
+Small,27,Milwaukee Bucks,2007,260
+Small,27,Milwaukee Bucks,2008,264
+Small,27,Milwaukee Bucks,2009,278
+Small,27,Milwaukee Bucks,2010,254
+Small,27,Milwaukee Bucks,2011,258
+Small,27,Milwaukee Bucks,2012,268
+Small,27,Milwaukee Bucks,2013,312
+Small,27,Milwaukee Bucks,2014,405
+Small,27,Milwaukee Bucks,2015,600
+Small,27,Milwaukee Bucks,2016,675
+Small,27,Milwaukee Bucks,2017,785
+Small,28,Oklahoma City Thunder,2001,187
+Small,28,Oklahoma City Thunder,2002,200
+Small,28,Oklahoma City Thunder,2003,207
+Small,28,Oklahoma City Thunder,2004,196
+Small,28,Oklahoma City Thunder,2005,205
+Small,28,Oklahoma City Thunder,2006,234
+Small,28,Oklahoma City Thunder,2007,268
+Small,28,Oklahoma City Thunder,2008,269
+Small,28,Oklahoma City Thunder,2009,300
+Small,28,Oklahoma City Thunder,2010,310
+Small,28,Oklahoma City Thunder,2011,329
+Small,28,Oklahoma City Thunder,2012,348
+Small,28,Oklahoma City Thunder,2013,475
+Small,28,Oklahoma City Thunder,2014,590
+Small,28,Oklahoma City Thunder,2015,930
+Small,28,Oklahoma City Thunder,2016,950
+Small,23,Charlotte Hornets,2017,780
+Small,29,Memphis Grizzlies,2001,118
+Small,29,Memphis Grizzlies,2002,160
+Small,29,Memphis Grizzlies,2003,198
+Small,29,Memphis Grizzlies,2004,227
+Small,29,Memphis Grizzlies,2005,238
+Small,29,Memphis Grizzlies,2006,294
+Small,29,Memphis Grizzlies,2007,313
+Small,29,Memphis Grizzlies,2008,304
+Small,29,Memphis Grizzlies,2009,294
+Small,29,Memphis Grizzlies,2010,257
+Small,29,Memphis Grizzlies,2011,266
+Small,29,Memphis Grizzlies,2012,269
+Small,29,Memphis Grizzlies,2013,377
+Small,29,Memphis Grizzlies,2014,453
+Small,29,Memphis Grizzlies,2015,750
+Small,29,Memphis Grizzlies,2016,780
+Mid,16,Minnesota Timberwolves,2017,770
+Small,30,New Orleans Pelicans,2001,144
+Small,30,New Orleans Pelicans,2002,135
+Small,30,New Orleans Pelicans,2003,216
+Small,30,New Orleans Pelicans,2004,216
+Small,30,New Orleans Pelicans,2005,225
+Small,30,New Orleans Pelicans,2006,225
+Small,30,New Orleans Pelicans,2007,248
+Small,30,New Orleans Pelicans,2008,272
+Small,30,New Orleans Pelicans,2009,285
+Small,30,New Orleans Pelicans,2010,267
+Small,30,New Orleans Pelicans,2011,280
+Small,30,New Orleans Pelicans,2012,285
+Small,30,New Orleans Pelicans,2013,340
+Small,30,New Orleans Pelicans,2014,420
+Small,30,New Orleans Pelicans,2015,650
+Small,30,New Orleans Pelicans,2016,650
+Small,30,New Orleans Pelicans,2017,750
