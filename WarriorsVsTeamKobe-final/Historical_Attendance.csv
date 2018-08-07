@@ -1,0 +1,511 @@
+Market_Size,Market_Rank,Item,Year,Attendance
+Big,1,New York Knicks,2001,810283.00
+Big,1,New York Knicks,2002,810283.00
+Big,1,New York Knicks,2003,779479.00
+Big,1,New York Knicks,2004,785739.00
+Big,1,New York Knicks,2005,800144.00
+Big,1,New York Knicks,2006,776176.00
+Big,1,New York Knicks,2007,770617.00
+Big,1,New York Knicks,2008,783739.00
+Big,1,New York Knicks,2009,790801.00
+Big,1,New York Knicks,2010,799550.00
+Big,1,New York Knicks,2011,808879.00
+Big,1,New York Knicks,2012,652179.00
+Big,1,New York Knicks,2013,780353.00
+Big,1,New York Knicks,2014,812292.00
+Big,1,New York Knicks,2015,812292.00
+Big,1,New York Knicks,2016,812292.00
+Big,1,New York Knicks,2017,810741.00
+Big,2,Brooklyn Nets,2001,566077.00
+Big,2,Brooklyn Nets,2002,564194.00
+Big,2,Brooklyn Nets,2003,622574.00
+Big,2,Brooklyn Nets,2004,613051.00
+Big,2,Brooklyn Nets,2005,618677.00
+Big,2,Brooklyn Nets,2006,691543.00
+Big,2,Brooklyn Nets,2007,678885.00
+Big,2,Brooklyn Nets,2008,641921.00
+Big,2,Brooklyn Nets,2009,621062.00
+Big,2,Brooklyn Nets,2010,537230.00
+Big,2,Brooklyn Nets,2011,581378.00
+Big,2,Brooklyn Nets,2012,460719.00
+Big,2,Brooklyn Nets,2013,704702.00
+Big,2,Brooklyn Nets,2014,707331.00
+Big,2,Brooklyn Nets,2015,698529.00
+Big,2,Brooklyn Nets,2016,620142.00
+Big,2,Brooklyn Nets,2017,632608.00
+Big,3,Los Angeles Lakers,2001,776336.00
+Big,3,Los Angeles Lakers,2002,778877.00
+Big,3,Los Angeles Lakers,2003,777888.00
+Big,3,Los Angeles Lakers,2004,777757.00
+Big,3,Los Angeles Lakers,2005,770494.00
+Big,3,Los Angeles Lakers,2006,774189.00
+Big,3,Los Angeles Lakers,2007,778415.00
+Big,3,Los Angeles Lakers,2008,778877.00
+Big,3,Los Angeles Lakers,2009,778877.00
+Big,3,Los Angeles Lakers,2010,778877.00
+Big,3,Los Angeles Lakers,2011,778877.00
+Big,3,Los Angeles Lakers,2012,626901.00
+Big,3,Los Angeles Lakers,2013,778877.00
+Big,3,Los Angeles Lakers,2014,771974.00
+Big,3,Los Angeles Lakers,2015,768244.00
+Big,3,Los Angeles Lakers,2016,778877.00
+Big,3,Los Angeles Lakers,2017,776917.00
+Big,4,Los Angeles Clippers,2001,599448.00
+Big,4,Los Angeles Clippers,2002,740185.00
+Big,4,Los Angeles Clippers,2003,706471.00
+Big,4,Los Angeles Clippers,2004,665396.00
+Big,4,Los Angeles Clippers,2005,696181.00
+Big,4,Los Angeles Clippers,2006,712409.00
+Big,4,Los Angeles Clippers,2007,755261.00
+Big,4,Los Angeles Clippers,2008,692408.00
+Big,4,Los Angeles Clippers,2009,646830.00
+Big,4,Los Angeles Clippers,2010,670063.00
+Big,4,Los Angeles Clippers,2011,727462.00
+Big,4,Los Angeles Clippers,2012,634237.00
+Big,4,Los Angeles Clippers,2013,788293.00
+Big,4,Los Angeles Clippers,2014,787692.00
+Big,4,Los Angeles Clippers,2015,785892.00
+Big,4,Los Angeles Clippers,2016,786910.00
+Big,4,Los Angeles Clippers,2017,782609.00
+Big,5,Chicago Bulls,2001,888654.00
+Big,5,Chicago Bulls,2002,776311.00
+Big,5,Chicago Bulls,2003,804309.00
+Big,5,Chicago Bulls,2004,809177.00
+Big,5,Chicago Bulls,2005,828384.00
+Big,5,Chicago Bulls,2006,868720.00
+Big,5,Chicago Bulls,2007,908600.00
+Big,5,Chicago Bulls,2008,901502.00
+Big,5,Chicago Bulls,2009,847903.00
+Big,5,Chicago Bulls,2010,849760.00
+Big,5,Chicago Bulls,2011,893462.00
+Big,5,Chicago Bulls,2012,731326.00
+Big,5,Chicago Bulls,2013,896944.00
+Big,5,Chicago Bulls,2014,890370.00
+Big,5,Chicago Bulls,2015,875091.00
+Big,5,Chicago Bulls,2016,894659.00
+Big,5,Chicago Bulls,2017,888832.00
+Big,6,Toronto Raptors,2001,793256.00
+Big,6,Toronto Raptors,2002,811135.00
+Big,6,Toronto Raptors,2003,777507.00
+Big,6,Toronto Raptors,2004,750608.00
+Big,6,Toronto Raptors,2005,750608.00
+Big,6,Toronto Raptors,2006,699242.00
+Big,6,Toronto Raptors,2007,748603.00
+Big,6,Toronto Raptors,2008,796835.00
+Big,6,Toronto Raptors,2009,769707.00
+Big,6,Toronto Raptors,2010,733784.00
+Big,6,Toronto Raptors,2011,679208.00
+Big,6,Toronto Raptors,2012,555584.00
+Big,6,Toronto Raptors,2013,743936.00
+Big,6,Toronto Raptors,2014,748339.00
+Big,6,Toronto Raptors,2015,809824.00
+Big,6,Toronto Raptors,2016,812863.00
+Big,6,Toronto Raptors,2017,813050.00
+Big,7,Philadelphia 76ers,2001,805692.00
+Big,7,Philadelphia 76ers,2002,842976.00
+Big,7,Philadelphia 76ers,2003,807097.00
+Big,7,Philadelphia 76ers,2004,788128.00
+Big,7,Philadelphia 76ers,2005,732686.00
+Big,7,Philadelphia 76ers,2006,677248.00
+Big,7,Philadelphia 76ers,2007,615480.00
+Big,7,Philadelphia 76ers,2008,609675.00
+Big,7,Philadelphia 76ers,2009,647898.00
+Big,7,Philadelphia 76ers,2010,583219.00
+Big,7,Philadelphia 76ers,2011,604823.00
+Big,7,Philadelphia 76ers,2012,577597.00
+Big,7,Philadelphia 76ers,2013,685412.00
+Big,7,Philadelphia 76ers,2014,568632.00
+Big,7,Philadelphia 76ers,2015,571572.00
+Big,7,Philadelphia 76ers,2016,610121.00
+Big,7,Philadelphia 76ers,2017,710557.00
+Big,8,Dallas Mavericks,2001,680138.00
+Big,8,Dallas Mavericks,2002,802783.00
+Big,8,Dallas Mavericks,2003,816429.00
+Big,8,Dallas Mavericks,2004,825594.00
+Big,8,Dallas Mavericks,2005,822533.00
+Big,8,Dallas Mavericks,2006,814009.00
+Big,8,Dallas Mavericks,2007,824993.00
+Big,8,Dallas Mavericks,2008,831738.00
+Big,8,Dallas Mavericks,2009,821723.00
+Big,8,Dallas Mavericks,2010,819770.00
+Big,8,Dallas Mavericks,2011,824162.00
+Big,8,Dallas Mavericks,2012,671050.00
+Big,8,Dallas Mavericks,2013,821490.00
+Big,8,Dallas Mavericks,2014,817982.00
+Big,8,Dallas Mavericks,2015,827702.00
+Big,8,Dallas Mavericks,2016,825901.00
+Big,8,Dallas Mavericks,2017,811366.00
+Big,9,Washington Wizards,2001,638653.00
+Big,9,Washington Wizards,2002,847634.00
+Big,9,Washington Wizards,2003,827092.00
+Big,9,Washington Wizards,2004,645363.00
+Big,9,Washington Wizards,2005,705069.00
+Big,9,Washington Wizards,2006,684889.00
+Big,9,Washington Wizards,2007,753283.00
+Big,9,Washington Wizards,2008,736461.00
+Big,9,Washington Wizards,2009,681117.00
+Big,9,Washington Wizards,2010,664398.00
+Big,9,Washington Wizards,2011,688466.00
+Big,9,Washington Wizards,2012,552038.00
+Big,9,Washington Wizards,2013,670070.00
+Big,9,Washington Wizards,2014,698068.00
+Big,9,Washington Wizards,2015,747796.00
+Big,9,Washington Wizards,2016,725426.00
+Big,9,Washington Wizards,2017,697107.00
+Big,10,Houston Rockets,2001,518555.00
+Big,10,Houston Rockets,2002,481227.00
+Big,10,Houston Rockets,2003,565166.00
+Big,10,Houston Rockets,2004,640794.00
+Big,10,Houston Rockets,2005,663444.00
+Big,10,Houston Rockets,2006,636110.00
+Big,10,Houston Rockets,2007,678262.00
+Big,10,Houston Rockets,2008,718524.00
+Big,10,Houston Rockets,2009,699280.00
+Big,10,Houston Rockets,2010,677658.00
+Big,10,Houston Rockets,2011,663839.00
+Big,10,Houston Rockets,2012,506994.00
+Big,10,Houston Rockets,2013,683564.00
+Big,10,Houston Rockets,2014,743082.00
+Big,10,Houston Rockets,2015,747412.00
+Big,10,Houston Rockets,2016,737244.00
+Big,10,Houston Rockets,2017,695903.00
+Mid,11,Golden State Warriors,2001,591981.00
+Mid,11,Golden State Warriors,2002,593182.00
+Mid,11,Golden State Warriors,2003,634935.00
+Mid,11,Golden State Warriors,2004,665648.00
+Mid,11,Golden State Warriors,2005,670368.00
+Mid,11,Golden State Warriors,2006,730928.00
+Mid,11,Golden State Warriors,2007,742267.00
+Mid,11,Golden State Warriors,2008,804864.00
+Mid,11,Golden State Warriors,2009,776660.00
+Mid,11,Golden State Warriors,2010,739120.00
+Mid,11,Golden State Warriors,2011,766398.00
+Mid,11,Golden State Warriors,2012,622311.00
+Mid,11,Golden State Warriors,2013,794320.00
+Mid,11,Golden State Warriors,2014,803436.00
+Mid,11,Golden State Warriors,2015,803436.00
+Mid,11,Golden State Warriors,2016,803436.00
+Mid,11,Golden State Warriors,2017,803436.00
+Mid,12,Atlanta Hawks,2001,560324.00
+Mid,12,Atlanta Hawks,2002,506110.00
+Mid,12,Atlanta Hawks,2003,528655.00
+Mid,12,Atlanta Hawks,2004,565728.00
+Mid,12,Atlanta Hawks,2005,592729.00
+Mid,12,Atlanta Hawks,2006,617817.00
+Mid,12,Atlanta Hawks,2007,639375.00
+Mid,12,Atlanta Hawks,2008,667518.00
+Mid,12,Atlanta Hawks,2009,686688.00
+Mid,12,Atlanta Hawks,2010,678375.00
+Mid,12,Atlanta Hawks,2011,641596.00
+Mid,12,Atlanta Hawks,2012,501593.00
+Mid,12,Atlanta Hawks,2013,620146.00
+Mid,12,Atlanta Hawks,2014,587927.00
+Mid,12,Atlanta Hawks,2015,713909.00
+Mid,12,Atlanta Hawks,2016,690150.00
+Mid,12,Atlanta Hawks,2017,654306.00
+Mid,13,Boston Celtics,2001,629201.00
+Mid,13,Boston Celtics,2002,659751.00
+Mid,13,Boston Celtics,2003,709049.00
+Mid,13,Boston Celtics,2004,664248.00
+Mid,13,Boston Celtics,2005,656081.00
+Mid,13,Boston Celtics,2006,692513.00
+Mid,13,Boston Celtics,2007,690576.00
+Mid,13,Boston Celtics,2008,763584.00
+Mid,13,Boston Celtics,2009,763584.00
+Mid,13,Boston Celtics,2010,744961.00
+Mid,13,Boston Celtics,2011,763584.00
+Mid,13,Boston Celtics,2012,614592.00
+Mid,13,Boston Celtics,2013,744960.00
+Mid,13,Boston Celtics,2014,742400.00
+Mid,13,Boston Celtics,2015,721350.00
+Mid,13,Boston Celtics,2016,749076.00
+Mid,13,Boston Celtics,2017,760690.00
+Mid,14,Phoenix Suns,2001,737586.00
+Mid,14,Phoenix Suns,2002,668939.00
+Mid,14,Phoenix Suns,2003,666559.00
+Mid,14,Phoenix Suns,2004,670385.00
+Mid,14,Phoenix Suns,2005,726066.00
+Mid,14,Phoenix Suns,2006,730179.00
+Mid,14,Phoenix Suns,2007,755302.00
+Mid,14,Phoenix Suns,2008,755302.00
+Mid,14,Phoenix Suns,2009,755302.00
+Mid,14,Phoenix Suns,2010,723582.00
+Mid,14,Phoenix Suns,2011,720249.00
+Mid,14,Phoenix Suns,2012,514718.00
+Mid,14,Phoenix Suns,2013,632913.00
+Mid,14,Phoenix Suns,2014,650739.00
+Mid,14,Phoenix Suns,2015,693862.00
+Mid,14,Phoenix Suns,2016,701405.00
+Mid,14,Phoenix Suns,2017,708639.00
+Mid,15,Detroit Pistons,2001,607323.00
+Mid,15,Detroit Pistons,2002,760807.00
+Mid,15,Detroit Pistons,2003,839278.00
+Mid,15,Detroit Pistons,2004,872902.00
+Mid,15,Detroit Pistons,2005,905119.00
+Mid,15,Detroit Pistons,2006,883040.00
+Mid,15,Detroit Pistons,2007,905116.00
+Mid,15,Detroit Pistons,2008,905116.00
+Mid,15,Detroit Pistons,2009,896971.00
+Mid,15,Detroit Pistons,2010,768826.00
+Mid,15,Detroit Pistons,2011,683080.00
+Mid,15,Detroit Pistons,2012,475638.00
+Mid,15,Detroit Pistons,2013,606094.00
+Mid,15,Detroit Pistons,2014,615238.00
+Mid,15,Detroit Pistons,2015,625917.00
+Mid,15,Detroit Pistons,2016,677138.00
+Mid,15,Detroit Pistons,2017,655141.00
+Mid,16,Minnesota Timberwolves,2001,717371.00
+Mid,16,Minnesota Timberwolves,2002,731673.00
+Mid,16,Minnesota Timberwolves,2003,643684.00
+Mid,16,Minnesota Timberwolves,2004,723071.00
+Mid,16,Minnesota Timberwolves,2005,723071.00
+Mid,16,Minnesota Timberwolves,2006,648167.00
+Mid,16,Minnesota Timberwolves,2007,655947.00
+Mid,16,Minnesota Timberwolves,2008,593537.00
+Mid,16,Minnesota Timberwolves,2009,594743.00
+Mid,16,Minnesota Timberwolves,2010,619170.00
+Mid,16,Minnesota Timberwolves,2011,624960.00
+Mid,16,Minnesota Timberwolves,2012,577197.00
+Mid,16,Minnesota Timberwolves,2013,669956.00
+Mid,16,Minnesota Timberwolves,2014,597157.00
+Mid,16,Minnesota Timberwolves,2015,595652.00
+Mid,16,Minnesota Timberwolves,2016,581178.00
+Mid,16,Minnesota Timberwolves,2017,607203.00
+Mid,17,Miami Heat,2001,677186.00
+Mid,17,Miami Heat,2002,655549.00
+Mid,17,Miami Heat,2003,628242.00
+Mid,17,Miami Heat,2004,624809.00
+Mid,17,Miami Heat,2005,815143.00
+Mid,17,Miami Heat,2006,818149.00
+Mid,17,Miami Heat,2007,808741.00
+Mid,17,Miami Heat,2008,798004.00
+Mid,17,Miami Heat,2009,729178.00
+Mid,17,Miami Heat,2010,726935.00
+Mid,17,Miami Heat,2011,810930.00
+Mid,17,Miami Heat,2012,657855.00
+Mid,17,Miami Heat,2013,819290.00
+Mid,17,Miami Heat,2014,811036.00
+Mid,17,Miami Heat,2015,808223.00
+Mid,17,Miami Heat,2016,809350.00
+Mid,17,Miami Heat,2017,805400.00
+Mid,18,Denver Nuggets,2001,619300.00
+Mid,18,Denver Nuggets,2002,633846.00
+Mid,18,Denver Nuggets,2003,607813.00
+Mid,18,Denver Nuggets,2004,721476.00
+Mid,18,Denver Nuggets,2005,723949.00
+Mid,18,Denver Nuggets,2006,702555.00
+Mid,18,Denver Nuggets,2007,706437.00
+Mid,18,Denver Nuggets,2008,711962.00
+Mid,18,Denver Nuggets,2009,706165.00
+Mid,18,Denver Nuggets,2010,737812.00
+Mid,18,Denver Nuggets,2011,692968.00
+Mid,18,Denver Nuggets,2012,561966.00
+Mid,18,Denver Nuggets,2013,730616.00
+Mid,18,Denver Nuggets,2014,692898.00
+Mid,18,Denver Nuggets,2015,602707.00
+Mid,18,Denver Nuggets,2016,577898.00
+Mid,18,Denver Nuggets,2017,605585.00
+Mid,19,Orlando Magic,2001,605031.00
+Mid,19,Orlando Magic,2002,621121.00
+Mid,19,Orlando Magic,2003,605901.00
+Mid,19,Orlando Magic,2004,589144.00
+Mid,19,Orlando Magic,2005,597942.00
+Mid,19,Orlando Magic,2006,638005.00
+Mid,19,Orlando Magic,2007,700887.00
+Mid,19,Orlando Magic,2008,709346.00
+Mid,19,Orlando Magic,2009,698768.00
+Mid,19,Orlando Magic,2010,715901.00
+Mid,19,Orlando Magic,2011,777852.00
+Mid,19,Orlando Magic,2012,623587.00
+Mid,19,Orlando Magic,2013,721414.00
+Mid,19,Orlando Magic,2014,666046.00
+Mid,19,Orlando Magic,2015,688194.00
+Mid,19,Orlando Magic,2016,719275.00
+Mid,19,Orlando Magic,2017,727875.00
+Mid,20,Cleveland Cavaliers,2001,650775.00
+Mid,20,Cleveland Cavaliers,2002,596115.00
+Mid,20,Cleveland Cavaliers,2003,471374.00
+Mid,20,Cleveland Cavaliers,2004,749808.00
+Mid,20,Cleveland Cavaliers,2005,784249.00
+Mid,20,Cleveland Cavaliers,2006,792391.00
+Mid,20,Cleveland Cavaliers,2007,837883.00
+Mid,20,Cleveland Cavaliers,2008,839074.00
+Mid,20,Cleveland Cavaliers,2009,820439.00
+Mid,20,Cleveland Cavaliers,2010,843042.00
+Mid,20,Cleveland Cavaliers,2011,824595.00
+Mid,20,Cleveland Cavaliers,2012,525577.00
+Mid,20,Cleveland Cavaliers,2013,663882.00
+Mid,20,Cleveland Cavaliers,2014,710522.00
+Mid,20,Cleveland Cavaliers,2015,843042.00
+Mid,20,Cleveland Cavaliers,2016,843042.00
+Mid,20,Cleveland Cavaliers,2017,843042.00
+Small,21,Sacramento Kings,2001,709997.00
+Small,21,Sacramento Kings,2002,709997.00
+Small,21,Sacramento Kings,2003,709997.00
+Small,21,Sacramento Kings,2004,709997.00
+Small,21,Sacramento Kings,2005,709997.00
+Small,21,Sacramento Kings,2006,709997.00
+Small,21,Sacramento Kings,2007,709817.00
+Small,21,Sacramento Kings,2008,580181.00
+Small,21,Sacramento Kings,2009,502852.00
+Small,21,Sacramento Kings,2010,543416.00
+Small,21,Sacramento Kings,2011,569496.00
+Small,21,Sacramento Kings,2012,478764.00
+Small,21,Sacramento Kings,2013,563743.00
+Small,21,Sacramento Kings,2014,667949.00
+Small,21,Sacramento Kings,2015,680049.00
+Small,21,Sacramento Kings,2016,707526.00
+Small,21,Sacramento Kings,2017,721928.00
+Small,22,Portland Trail Blazers,2001,831976.00
+Small,22,Portland Trail Blazers,2002,797821.00
+Small,22,Portland Trail Blazers,2003,796250.00
+Small,22,Portland Trail Blazers,2004,684038.00
+Small,22,Portland Trail Blazers,2005,680374.00
+Small,22,Portland Trail Blazers,2006,617199.00
+Small,22,Portland Trail Blazers,2007,670778.00
+Small,22,Portland Trail Blazers,2008,801566.00
+Small,22,Portland Trail Blazers,2009,841499.00
+Small,22,Portland Trail Blazers,2010,840411.00
+Small,22,Portland Trail Blazers,2011,840924.00
+Small,22,Portland Trail Blazers,2012,676384.00
+Small,22,Portland Trail Blazers,2013,813012.00
+Small,22,Portland Trail Blazers,2014,809612.00
+Small,22,Portland Trail Blazers,2015,801733.00
+Small,22,Portland Trail Blazers,2016,794085.00
+Small,22,Portland Trail Blazers,2017,792029.00
+Small,23,Charlotte Hornets,2001,615424.00
+Small,23,Charlotte Hornets,2002,462738.00
+Small,23,Charlotte Hornets,2003,0.00
+Small,23,Charlotte Hornets,2004,0.00
+Small,23,Charlotte Hornets,2005,0.00
+Small,23,Charlotte Hornets,2006,0.00
+Small,23,Charlotte Hornets,2007,0.00
+Small,23,Charlotte Hornets,2008,0.00
+Small,23,Charlotte Hornets,2009,0.00
+Small,23,Charlotte Hornets,2010,0.00
+Small,23,Charlotte Hornets,2011,0.00
+Small,23,Charlotte Hornets,2012,0.00
+Small,23,Charlotte Hornets,2013,0.00
+Small,23,Charlotte Hornets,2014,636268.00
+Small,23,Charlotte Hornets,2015,704886.00
+Small,23,Charlotte Hornets,2016,716894.00
+Small,23,Charlotte Hornets,2017,710643.00
+Small,24,Indiana Pacers,2001,733444.00
+Small,24,Indiana Pacers,2002,686537.00
+Small,24,Indiana Pacers,2003,670461.00
+Small,24,Indiana Pacers,2004,678326.00
+Small,24,Indiana Pacers,2005,696764.00
+Small,24,Indiana Pacers,2006,663368.00
+Small,24,Indiana Pacers,2007,629750.00
+Small,24,Indiana Pacers,2008,501092.00
+Small,24,Indiana Pacers,2009,581472.00
+Small,24,Indiana Pacers,2010,582295.00
+Small,24,Indiana Pacers,2011,555077.00
+Small,24,Indiana Pacers,2012,467561.00
+Small,24,Indiana Pacers,2013,626069.00
+Small,24,Indiana Pacers,2014,717542.00
+Small,24,Indiana Pacers,2015,691434.00
+Small,24,Indiana Pacers,2016,690733.00
+Small,24,Indiana Pacers,2017,684578.00
+Small,25,Utah Jazz,2001,792196.00
+Small,25,Utah Jazz,2002,766108.00
+Small,25,Utah Jazz,2003,786034.00
+Small,25,Utah Jazz,2004,785330.00
+Small,25,Utah Jazz,2005,769014.00
+Small,25,Utah Jazz,2006,751621.00
+Small,25,Utah Jazz,2007,802294.00
+Small,25,Utah Jazz,2008,816211.00
+Small,25,Utah Jazz,2009,816042.00
+Small,25,Utah Jazz,2010,794512.00
+Small,25,Utah Jazz,2011,799982.00
+Small,25,Utah Jazz,2012,637124.00
+Small,25,Utah Jazz,2013,765915.00
+Small,25,Utah Jazz,2014,745203.00
+Small,25,Utah Jazz,2015,772059.00
+Small,25,Utah Jazz,2016,791489.00
+Small,25,Utah Jazz,2017,806605.00
+Small,26,San Antonio Spurs,2001,913175.00
+Small,26,San Antonio Spurs,2002,906390.00
+Small,26,San Antonio Spurs,2003,735970.00
+Small,26,San Antonio Spurs,2004,739706.00
+Small,26,San Antonio Spurs,2005,750970.00
+Small,26,San Antonio Spurs,2006,770677.00
+Small,26,San Antonio Spurs,2007,764823.00
+Small,26,San Antonio Spurs,2008,761149.00
+Small,26,San Antonio Spurs,2009,749048.00
+Small,26,San Antonio Spurs,2010,741676.00
+Small,26,San Antonio Spurs,2011,750879.00
+Small,26,San Antonio Spurs,2012,607095.00
+Small,26,San Antonio Spurs,2013,755700.00
+Small,26,San Antonio Spurs,2014,755031.00
+Small,26,San Antonio Spurs,2015,762855.00
+Small,26,San Antonio Spurs,2016,756445.00
+Small,26,San Antonio Spurs,2017,755347.00
+Small,27,Milwaukee Bucks,2001,683125.00
+Small,27,Milwaukee Bucks,2002,745305.00
+Small,27,Milwaukee Bucks,2003,665956.00
+Small,27,Milwaukee Bucks,2004,690200.00
+Small,27,Milwaukee Bucks,2005,637009.00
+Small,27,Milwaukee Bucks,2006,681337.00
+Small,27,Milwaukee Bucks,2007,663629.00
+Small,27,Milwaukee Bucks,2008,639421.00
+Small,27,Milwaukee Bucks,2009,630976.00
+Small,27,Milwaukee Bucks,2010,619453.00
+Small,27,Milwaukee Bucks,2011,631910.00
+Small,27,Milwaukee Bucks,2012,485717.00
+Small,27,Milwaukee Bucks,2013,616469.00
+Small,27,Milwaukee Bucks,2014,552967.00
+Small,27,Milwaukee Bucks,2015,611226.00
+Small,27,Milwaukee Bucks,2016,621808.00
+Small,27,Milwaukee Bucks,2017,648952.00
+Small,28,Oklahoma City Thunder,2001,640847.00
+Small,28,Oklahoma City Thunder,2002,633516.00
+Small,28,Oklahoma City Thunder,2003,637194.00
+Small,28,Oklahoma City Thunder,2004,625474.00
+Small,28,Oklahoma City Thunder,2005,675490.00
+Small,28,Oklahoma City Thunder,2006,664157.00
+Small,28,Oklahoma City Thunder,2007,654163.00
+Small,28,Oklahoma City Thunder,2008,547556.00
+Small,28,Oklahoma City Thunder,2009,747732.00
+Small,28,Oklahoma City Thunder,2010,738149.00
+Small,28,Oklahoma City Thunder,2011,744068.00
+Small,28,Oklahoma City Thunder,2012,600699.00
+Small,28,Oklahoma City Thunder,2013,746323.00
+Small,28,Oklahoma City Thunder,2014,746323.00
+Small,28,Oklahoma City Thunder,2015,746323.00
+Small,28,Oklahoma City Thunder,2016,746323.00
+Small,28,Oklahoma City Thunder,2017,746323.00
+Small,29,Memphis Grizzlies,2001,563218.00
+Small,29,Memphis Grizzlies,2002,591030.00
+Small,29,Memphis Grizzlies,2003,611322.00
+Small,29,Memphis Grizzlies,2004,622723.00
+Small,29,Memphis Grizzlies,2005,691362.00
+Small,29,Memphis Grizzlies,2006,647533.00
+Small,29,Memphis Grizzlies,2007,600836.00
+Small,29,Memphis Grizzlies,2008,523578.00
+Small,29,Memphis Grizzlies,2009,509806.00
+Small,29,Memphis Grizzlies,2010,552914.00
+Small,29,Memphis Grizzlies,2011,600687.00
+Small,29,Memphis Grizzlies,2012,518256.00
+Small,29,Memphis Grizzlies,2013,681613.00
+Small,29,Memphis Grizzlies,2014,685458.00
+Small,29,Memphis Grizzlies,2015,710502.00
+Small,29,Memphis Grizzlies,2016,684603.00
+Small,29,Memphis Grizzlies,2017,677314.00
+Small,30,New Orleans Pelicans,2001,615424.00
+Small,30,New Orleans Pelicans,2002,462738.00
+Small,30,New Orleans Pelicans,2003,641683.00
+Small,30,New Orleans Pelicans,2004,587613.00
+Small,30,New Orleans Pelicans,2005,583070.00
+Small,30,New Orleans Pelicans,2006,744920.00
+Small,30,New Orleans Pelicans,2007,731065.00
+Small,30,New Orleans Pelicans,2008,581432.00
+Small,30,New Orleans Pelicans,2009,695727.00
+Small,30,New Orleans Pelicans,2010,620366.00
+Small,30,New Orleans Pelicans,2011,603088.00
+Small,30,New Orleans Pelicans,2012,498618.00
+Small,30,New Orleans Pelicans,2013,565930.00
+Small,30,New Orleans Pelicans,2014,672029.00
+Small,30,New Orleans Pelicans,2015,683757.00
+Small,30,New Orleans Pelicans,2016,688549.00
+Small,30,New Orleans Pelicans,2017,663099.00
